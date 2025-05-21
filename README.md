@@ -1,4 +1,4 @@
-<h1>Hi, I'm Natnael! <br/><a href="https://github.com/Natnael-rgb">Web-designer</a>, <a href="https://www.linkedin.com/in/natnael-asrat-58798025a/"> <a href="https://natiasratjob.wixsite.com/sirak-copywriter>Graphics designer </a>, Copywriter </a></h1>
+<h1>Hi, I'm Natnael! <br/>  <a href="https://github.com/Natnael-rgb">Web-designer</a>, <a href="https://www.linkedin.com/in/natnael-asrat-58798025a/"> <a href="https://natiasratjob.wixsite.com/sirak-copywriter>Graphics designer </a>, Copywriter </a></h1>
 
 <h2>👨‍💻 Software Development Projects:</h2>
 
