@@ -12,7 +12,7 @@ I'm a passionate ** Web Designer | Web developer ** focused on crafting seamless
 - **Languages & Tools:**  
   HTML | CSS | JavaScript | SQL
 - **Specialization:**  
-  UI/UX Design
+ Graphics Design
 
 ## 🚀 Featured Project
 ### [WebTv – Netflix Clone](#)
@@ -22,7 +22,7 @@ A full-featured streaming platform inspired by Netflix, designed with intuitive 
 
 ## 🌱 Outside of Work
 When I'm not designing or coding, you’ll find me:
-- ✍️ Writing
+- ✍️ Content Writing
 - 🎨 Drawing
 - 🥾 Hiking
 
